@@ -2,6 +2,8 @@
 # Vidyut Shakti - PM Surya Ghar Muft Bijli Yojana Website
 
 A responsive, modern website for Vidyut Shakti - an authorized vendor of MNRE & TPWODL for the PM Surya Ghar Muft Bijli Yojana scheme.
+🌐 Live Demo
+Live Website: https://amitsahu629.github.io/vidyutshakti/
 
 ## 📋 Table of Contents
 
@@ -259,4 +261,4 @@ For support and questions:
 
 **Note**: This website is built with pure HTML, CSS, and JavaScript - no frameworks or build processes required. It's designed to be easy to customize and deploy while maintaining high performance and accessibility standards.
 
-For the latest updates and documentation, always refer to the [GitHub repository](https://github.com/your-username/vidyut-shakti-website).
+For the latest updates and documentation, always refer to the [GitHub repository](https://amitsahu629.github.io/vidyutshakti/).
